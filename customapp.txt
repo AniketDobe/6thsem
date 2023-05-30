@@ -1,0 +1,23 @@
+custom object
+
+label , save
+
+
+field and relatiinship
+
+tabs
+
+app manager
+
+new lightning app 
+
+name/image
+
+import any one app
+
+system administrator
+
+save/finish
+
+app launcher
+
