@@ -1,0 +1,23 @@
+cd Desktop
+
+//chmod 400 key.pem
+
+//ssh -i "myKey.pem" ec2-user@ec2-3-88-131-122.compute-1.amazonaws.com
+
+sudo su
+
+yum update -y
+
+yum install -y
+
+yum install httpd -y
+
+cd/var/www/html
+
+nano index.html
+
+sudo systemch start httpd.service
+
+sudo systemctl start httpd.service
+
+chkconfig On
