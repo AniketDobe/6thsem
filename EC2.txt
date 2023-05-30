@@ -16,7 +16,7 @@ cd/var/www/html
 
 nano index.html
 
-sudo systemch start httpd.service
+// no need sudo systemch start httpd.service 
 
 sudo systemctl start httpd.service
 
